@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CRUD\\OCP_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\services\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\services\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\services\\toasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\services\\toasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\models\\notificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\models\\notificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\interfaces\\inotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\interfaces\\inotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\interfaces\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\interfaces\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|f:\\crud\\ocp_v2\\ocp_v2\\services\\sms_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E322433-CC05-4479-A31E-D9D1AD2A2C39}|OCP_V2\\OCP_V2.csproj|solutionrelative:ocp_v2\\services\\sms_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToasterService.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\ToasterService.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Services\\ToasterService.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\ToasterService.cs",
+              "RelativeToolTip": "OCP_V2\\Services\\ToasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T21:27:10.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Services\\NotificationFactory.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\NotificationFactory.cs",
+              "RelativeToolTip": "OCP_V2\\Services\\NotificationFactory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:45:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Services\\EmailService.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\EmailService.cs",
+              "RelativeToolTip": "OCP_V2\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:40:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Program.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Program.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Program.cs",
+              "RelativeToolTip": "OCP_V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:37:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationChannel.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Models\\NotificationChannel.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Models\\NotificationChannel.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Models\\NotificationChannel.cs",
+              "RelativeToolTip": "OCP_V2\\Models\\NotificationChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:39:10.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationFactory.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Interfaces\\INotificationFactory.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Interfaces\\INotificationFactory.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Interfaces\\INotificationFactory.cs",
+              "RelativeToolTip": "OCP_V2\\Interfaces\\INotificationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:43:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMS_Service.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\SMS_Service.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Services\\SMS_Service.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Services\\SMS_Service.cs",
+              "RelativeToolTip": "OCP_V2\\Services\\SMS_Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:41:23.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotificationChannel.cs",
+              "DocumentMoniker": "F:\\CRUD\\OCP_V2\\OCP_V2\\Interfaces\\INotificationChannel.cs",
+              "RelativeDocumentMoniker": "OCP_V2\\Interfaces\\INotificationChannel.cs",
+              "ToolTip": "F:\\CRUD\\OCP_V2\\OCP_V2\\Interfaces\\INotificationChannel.cs",
+              "RelativeToolTip": "OCP_V2\\Interfaces\\INotificationChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:39:50.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
