@@ -1,0 +1,6 @@
+# Visual Studio 2015
+.vs/
+.git/
+
+OCP_V2/bin
+OCP_V2/obj
